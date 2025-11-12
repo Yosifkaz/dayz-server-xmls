@@ -1,0 +1,71 @@
+{
+    "rarityLevels": {
+        "#STR_COMMON": [
+            128.0,
+            128.0,
+            128.0
+        ],
+        "#STR_UNCOMMON": [
+            46.0,
+            204.0,
+            64.0
+        ],
+        "#STR_RARE": [
+            52.0,
+            152.0,
+            219.0
+        ],
+        "#STR_EPIC": [
+            155.0,
+            89.0,
+            182.0
+        ],
+        "#STR_LEGENDARY": [
+            243.0,
+            156.0,
+            18.0
+        ]
+    },
+  "items": {
+    "Deagle_Gold": "#STR_LEGENDARY",
+    "Engraved1911": "#STR_EPIC",
+    "ZY_Collectable_PS5_Gold": "#STR_LEGENDARY",
+    "ZY_Collectable_PS5Controllder_Gold": "#STR_LEGENDARY",
+    "ZY_Collectable_Skull_Gold": "#STR_LEGENDARY",
+    "ZY_Collectable_BarGold": "#STR_LEGENDARY",
+    "ZY_Collectable_CPU": "#STR_RARE",
+    "ZY_Collectable_GPU": "#STR_RARE",
+    "ZY_Collectable_IPhone_White": "#STR_RARE",
+    "ZY_Collectable_IPhone_Black": "#STR_RARE",
+    "ZY_Collectable_PolaroidCam": "#STR_RARE",
+    "ZY_Collectable_NintendoWii": "#STR_EPIC",
+    "ZY_Collectable_NintendoSwitch": "#STR_EPIC",
+    "ZY_Collectable_PS4": "#STR_EPIC",
+    "ZY_Collectable_PS5": "#STR_EPIC",
+    "ZY_Collectable_PS5Controllder": "#STR_EPIC",
+    "ZY_Collectable_Skull_Silver": "#STR_RARE",
+    "ZY_Collectable_BarSilver": "#STR_RARE",
+    "ZY_Collectable_Coin": "#STR_UNCOMMON",
+    "ZY_Collectable_Coin2": "#STR_UNCOMMON",
+    "ZY_Collectable_RubixCube": "#STR_UNCOMMON",
+    "ZY_Collectable_Tetristoy": "#STR_UNCOMMON",
+    "ZY_Collectable_GameboyColor": "#STR_UNCOMMON",
+    "ZY_Collectable_GameboyAdv": "#STR_UNCOMMON",
+    "ZY_Collectable_ImpossibleCube": "#STR_UNCOMMON",
+    "ZY_Collectable_NintendoWiiController": "#STR_UNCOMMON",
+    "ZY_Collectable_PS1": "#STR_UNCOMMON",
+    "ZY_Collectable_PS2": "#STR_UNCOMMON",
+    "ZY_Collectable_PS4Controller": "#STR_UNCOMMON",
+    "ZY_Collectable_NintendoDSLite": "#STR_UNCOMMON",
+    "ZY_Collectable_Nintendo2DS": "#STR_UNCOMMON",
+    "ZY_Collectable_PokeBall": "#STR_UNCOMMON",
+    "ZY_Collectable_GreatBall": "#STR_UNCOMMON",
+    "ZY_Collectable_NestBall": "#STR_UNCOMMON",
+    "ZY_Collectable_ParkBall": "#STR_UNCOMMON",
+    "ZY_Collectable_PremierBall": "#STR_UNCOMMON",
+    "ZY_Collectable_SafariBall": "#STR_UNCOMMON",
+    "ZY_Collectable_UltraBall": "#STR_UNCOMMON",
+    "ZY_Collectable_Pokedex": "#STR_UNCOMMON"
+  },
+    "colorSlots": 1
+}
